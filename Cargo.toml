@@ -1,5 +1,5 @@
 [package]
-name = "NES-Emulator" # the name of the package
+name = "nes_emulator" # the name of the package
 version = "0.1.0"    # the current version, obeying semver
 authors = ["Chris <chrismcgale@gmail.com>"]
 

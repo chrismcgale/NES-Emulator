@@ -6,3 +6,5 @@ authors = ["Chris <chrismcgale@gmail.com>"]
 [dependencies]
 bitflags="2.6.0"
 lazy_static="1.5.0"
+sdl2 = "0.34.0"
+rand = "0.8.5"

@@ -1,0 +1,8 @@
+[package]
+name = "NES-Emulator" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["Chris <chrismcgale@gmail.com>"]
+
+[dependencies]
+bitflags="2.6.0"
+lazy_static="1.5.0"

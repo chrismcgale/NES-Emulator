@@ -1,0 +1,1 @@
+NES Emulator written in rust. Simulates the 6502 CPU and PPU from the NES system, capable of playing classic Nintendo games. In progress of implementing save states and other emulation features such as fast-forward.
